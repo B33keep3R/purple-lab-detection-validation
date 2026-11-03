@@ -122,8 +122,8 @@ All documented activity was performed in a personal lab using test artifacts.
 
 ## Full Reports
 
-- [Read the English report](./Purple_Lab_Report_EN_v1_2.pdf)
-- [Pročitaj izveštaj na srpskom](./Purple_Lab_Izvestaj_SR_v1_2.pdf)
+- [Read the English report](./Purple_Lab_Report_EN.pdf)
+- [Pročitaj izveštaj na srpskom](./Purple_Lab_Izvestaj_SRB.pdf)
 
 ## Author
 
